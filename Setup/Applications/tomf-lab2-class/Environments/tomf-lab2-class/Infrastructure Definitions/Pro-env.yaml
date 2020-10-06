@@ -5,5 +5,5 @@ deploymentType: KUBERNETES
 infrastructure:
 - type: DIRECT_KUBERNETES
   cloudProviderName: tomf-lab2-class
-  namespace: pro-tomf
+  namespace: pro-tomf2
   releaseName: release-${infra.kubernetes.infraId}
